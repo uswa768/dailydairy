@@ -1,4 +1,4 @@
-import CapCard from '../components/CapCard'
+import CapCard from '../Components/CapCard'
 
 import cap1  from '../assets/Cap01.png'
 import cap2  from '../assets/Cap02.png'
