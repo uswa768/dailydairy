@@ -6,10 +6,16 @@
   padding: 0;
 }
 
-html, body {
+html, body, #root {
+  width: 100%;
+  min-height: 100%;
+}
+
+body {
   background-color: #0f2a6e;
   color: #ffffff;
   overflow-x: hidden;
+  overflow-y: auto;
 }
 
 a {
